@@ -208,7 +208,7 @@
     
 }
 /*====================================
-//                270
+//                90
 //              ******
 //            *   |    *
 //          *     |      *
@@ -220,7 +220,7 @@
 //          *     |      *
 //            *   |    *
 //              ******
-//                90
+//                270
 ====================================*/
 
 - (float)getAngleWithStartPoint:(CGPoint)startPoint withEndPoint:(CGPoint)endPoint{
@@ -247,21 +247,21 @@
     
     if (a1 >0 && a2>0) {
         Thita = acos(cosThita);
-        thita = Thita;
+        thita = M_PI*2 - Thita;
     }
     else if (a1<0 && a2 >0){
         Thita = acos(cosThita);
-        thita = Thita;
+        thita = M_PI*2 - Thita;
     }
     else if (a1<0 && a2 <0){
         
         Thita = -acos(cosThita) ;
-        thita = Thita + M_PI*2;
+        thita = -Thita;
     }
     else if (a1 >0 && a2 <0){
         
         Thita = -acos(cosThita);
-        thita = Thita + M_PI*2;
+        thita = -Thita;
         
     }
     
