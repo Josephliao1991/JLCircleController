@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DB541707-A6F1-40A9-ADD1-9668CB533B8B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JLCircleController</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>15B0690C1F0FCBA206F0FE5D96F496D0F60CB88F</key>
+		<string>https://github.com/Josephliao1991/JLCircleController.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JLCircleController/JLCircleController.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>15B0690C1F0FCBA206F0FE5D96F496D0F60CB88F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Josephliao1991/JLCircleController.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>15B0690C1F0FCBA206F0FE5D96F496D0F60CB88F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>15B0690C1F0FCBA206F0FE5D96F496D0F60CB88F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JLCircleController</string>
+		</dict>
+	</array>
+</dict>
+</plist>
